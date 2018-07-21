@@ -211,7 +211,3 @@ ro.audio.flinger_standbytime_ms=300
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.sys.sdcardfs=false
 
-# Misc
-PRODUCT_PROPERTY_OVERRIDES += \
-ro.setupwizard.rotation_locked=true
-
