@@ -388,3 +388,8 @@ $(call inherit-product, frameworks/native/build/phone-xxhdpi-3072-dalvik-heap.mk
 # OTA Updates
 PRODUCT_PACKAGES += \
 	Updates
+
+# AdvancedControls
+PRODUCT_PACKAGES += \
+    AdvancedControls \
+    Messaging
